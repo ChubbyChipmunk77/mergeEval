@@ -2,3 +2,5 @@ My homie is not of any use
 hello how are you.
 i am fine.
   
+My homie is not of any use  
+i am a merge conflict line
